@@ -124,6 +124,14 @@ Optionally add API Gateway to trigger Lambda via a date parameter.
 - ✅ Lambda script for CSV analytics
 
 ---
+## 🫵 Dashboard
+![Dashboard](https://github.com/SpoorthyVihana/Trade-Pulse/blob/main/Dashboard.png)
+![Live Stock Prices](https://github.com/SpoorthyVihana/Trade-Pulse/blob/main/LIVE-STOCK-PRICES.png)
+![Add Trade](https://github.com/SpoorthyVihana/Trade-Pulse/blob/main/ADD-TRADE.png)
+![Recent Trades](https://github.com/SpoorthyVihana/Trade-Pulse/blob/main/RECENT-TRADES.png)
+![Price Alerts](https://github.com/SpoorthyVihana/Trade-Pulse/blob/main/PRICE-ALERTS.png)
+
+---
 
 ## 📌 Future Enhancements
 
